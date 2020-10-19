@@ -1,6 +1,9 @@
 # Service Now Virtual Agent + Teams
 
-
+ 0. Request your developer Service Now instance:
+ 
+ https://developer.servicenow.com/dev.do#!/guides/paris/now-platform/pdi-guide/personal-developer-instance-guide-introduction
+ 
  1.  Assign a user or group to an enterprise app in Azure Active Directory
  
 https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/assign-user-or-group-access-portal
